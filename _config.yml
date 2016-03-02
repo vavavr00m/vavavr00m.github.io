@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://vavavr00m.github.io
+title: vavavr00m
+tagline: One stop shop to ad filtering
+description: Site dedicated to ad blocking
+paginate: 1
